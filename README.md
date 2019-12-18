@@ -1,0 +1,2 @@
+# dynamic app zoom resize
+ 
